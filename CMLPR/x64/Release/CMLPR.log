@@ -1,0 +1,19 @@
+﻿  CMLPR.cpp
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(196,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(215,39): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(537,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(588,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(651,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(659,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(714,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Q:\gamedev\programming\CPP\CMLPR\CMLPR\CMLPR.cpp(767,127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 206 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CMLPR.vcxproj -> Q:\gamedev\programming\CPP\CMLPR\x64\Release\CMLPR.exe
